@@ -6,18 +6,18 @@ CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orc
 
 The following samples no longer work in Estuary:
 
-8vasus (2)     
-backwards (3)  
-ombell (1) 
-pentch (2) 
-pingvh (4) 
-ponch (1) 
-pong (6) 
-ponsus (1) 
-ptch (2) 
-vibch (4) 
-vibnt (3)
-wah (2)
+- 8vasus (2)     
+- backwards (3)  
+- ombell (1) 
+- pentch (2) 
+- pingvh (4) 
+- ponch (1) 
+- pong (6) 
+- ponsus (1) 
+- ptch (2) 
+- vibch (4) 
+- vibnt (3)
+- wah (2) 
 
 
 ##Instructions for Contributing to this repository
