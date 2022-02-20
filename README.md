@@ -1,8 +1,26 @@
-#UPLOrc
+#UPLOrc-samples
 
 CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orchestra) and used in the Estuary platform.
 
-##Instructions for Contributing
+## List of broken samples
+
+The following samples no longer work in Estuary:
+
+8vasus (2)     
+backwards (3)  
+ombell (1) 
+pentch (2) 
+pingvh (4) 
+ponch (1) 
+pong (6) 
+ponsus (1) 
+ptch (2) 
+vibch (4) 
+vibnt (3)
+wah (2)
+
+
+##Instructions for Contributing to this repository
 
 Important: Please ensure that all samples you contribute are samples where you are 100% sure that either (a) you are the original creator and thus copyright holder, or (b) the samples are are clearly and verifiably in the public domain. Consider adding a .txt file to any folder you add briefly indicating how the samples were produced.
 
