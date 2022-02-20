@@ -4,7 +4,7 @@ CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orc
 
 ## List of broken samples
 
-The following samples no longer work in Estuary:
+The following samples no longer work in Estuary (https://estuary.mcmaster.ca/):
 
 - 8vasus (2)     
 - backwards (3)  
