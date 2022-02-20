@@ -1,4 +1,4 @@
-#UPLOrc-samples
+# UPLOrc-samples
 
 CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orchestra) and used in the Estuary platform.
 
@@ -20,20 +20,20 @@ The following samples no longer work in Estuary (https://estuary.mcmaster.ca/):
 - wah (2) 
 
 
-##Instructions for Contributing to this repository
+## Instructions for Contributing to this repository
 
 Important: Please ensure that all samples you contribute are samples where you are 100% sure that either (a) you are the original creator and thus copyright holder, or (b) the samples are are clearly and verifiably in the public domain. Consider adding a .txt file to any folder you add briefly indicating how the samples were produced.
 
 - Create an account on github.com (just once).
 
-- Fork the repository by going to the central copy of it on github at https://github.com/djmelan3/UPLOrc.git and clicking on the
+- Fork the repository by going to the central copy of it on github at https://github.com/djmelan3/UPLOrc-samples.git and clicking on the
 Fork button (just once).
 
 - Using a command shell, clone *your*copy* of the repository from github to a computer in your possession. For example:
 
 ```
 cd~
-git clone https://github.com/djmelan3/UPLOrc.git
+git clone https://github.com/djmelan3/UPLOrc-samples.git
 ````
 
 - Add sample folders and files to the UPLOrc folder on your computer (if you follow the instruction above exactly,
@@ -42,7 +42,7 @@ it will be in your home folder).
 - To share changes with others, first check what differences exist in your folder:
 
 ```
-cd ~/UPLOrc
+cd ~/UPLOrc-samples
 git status
 ````
 
@@ -73,6 +73,6 @@ message about it and will be able to merge it with the central copy.
 changes, then:
 
 ```
-cd ~/UPLOrc
-git pull https://github.com/djmelan3/UPLOrc.git main
+cd ~/UPLOrc-samples
+git pull https://github.com/djmelan3/UPLOrc-samples.git main
 ```
