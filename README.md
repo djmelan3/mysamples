@@ -6,6 +6,10 @@ CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orc
 
 Go to https://github.com/dktr0/estuary/wiki#list-of-reslists-aka-sample-libraries-that-can-be-added-on-the-fly to see how to do this.
 
+## Preparing Audio Samples
+
+See https://github.com/cleary/Clean-Samples#advice-for-preparing-samples on some advice on how to prepare audio samples. Also ensure that each sample is placed in it's own folder. If multiple files of the same sample exist (for example, in the case that the sample has been pitch-shifted and separate files exist of each pitch-shifted sample) make sure all these are in the same folder. To see what the file structure looks like, simply refer back to this repository (e.g. bassb).
+
 ## Instructions for Contributing to this repository
 
 Important: Please ensure that all samples you contribute are samples where you are 100% sure that either (a) you are the original creator and thus copyright holder, or (b) the samples are are clearly and verifiably in the public domain. Consider adding a .txt file to any folder you add briefly indicating how the samples were produced.
