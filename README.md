@@ -2,6 +2,10 @@
 
 CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orchestra) and used in the Estuary platform.
 
+## Adding samples to Estuary using !reslist
+
+Go to https://github.com/dktr0/estuary/wiki#list-of-reslists-aka-sample-libraries-that-can-be-added-on-the-fly to see how to do this.
+
 ## Instructions for Contributing to this repository
 
 Important: Please ensure that all samples you contribute are samples where you are 100% sure that either (a) you are the original creator and thus copyright holder, or (b) the samples are are clearly and verifiably in the public domain. Consider adding a .txt file to any folder you add briefly indicating how the samples were produced.
