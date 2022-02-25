@@ -4,7 +4,10 @@ CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orc
 
 ## Adding samples to Estuary using !reslist
 
-Go to https://github.com/dktr0/estuary/wiki#list-of-reslists-aka-sample-libraries-that-can-be-added-on-the-fly to see how to do this.
+To add these samples into Estuary type the following in the Terminal Window amd press Enter:
+
+!reslist "https://djmelan3.github.io/UPLOrc-samples/resources.json" 
+
 
 ## Preparing Audio Samples
 
