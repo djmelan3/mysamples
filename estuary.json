@@ -1,0 +1,7772 @@
+[
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/000_piz_a#3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/001_piz_a#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/002_piz_a#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/003_piz_a#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/004_1st-violins-piz-rr1-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/005_1st-violins-piz-rr1-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/006_1st-violins-piz-rr1-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/007_1st-violins-piz-rr1-e4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/008_1st-violins-piz-rr1-e5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/009_1st-violins-piz-rr1-e6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/010_1st-violins-piz-rr1-g3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/011_1st-violins-piz-rr1-g4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/012_1st-violins-piz-rr1-g5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/013_1st-violins-piz-rr1-g6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/014_1st-violins-piz-rr2-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/015_1st-violins-piz-rr2-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/016_1st-violins-piz-rr2-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/017_1st-violins-piz-rr2-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/018_1st-violins-piz-rr2-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/019_1st-violins-piz-rr2-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/020_1st-violins-piz-rr2-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/021_1st-violins-piz-rr2-e4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/022_1st-violins-piz-rr2-e5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/023_1st-violins-piz-rr2-e6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/024_1st-violins-piz-rr2-g3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/025_1st-violins-piz-rr2-g4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/026_1st-violins-piz-rr2-g5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/027_1st-violins-piz-rr2-g6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-e4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-e5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-e6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-g3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-g4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-g5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr1-g6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-e4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-e5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-e6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-g3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-g4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-g5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-stc-rr2-g6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-e5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 65,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-e6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 66,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 67,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 68,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-g5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 69,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-sus-g6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 70,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 71,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 72,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 73,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 74,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 75,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 76,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 77,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-e4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 78,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-e5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 79,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-e6.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 80,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-g3.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 81,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-g4.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 82,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-g5.wav"
+ 	},
+ 	{
+ 		"bank": "1stVio",
+ 		"n": 83,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/1stVio/1st-violins-trm-g6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-e4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-e5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-e6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-g3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-g4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-g5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr1-g6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-e4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-e5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-e6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-g3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-g4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-g5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-piz-rr2-g6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-e4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-e5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-e6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-g3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-g4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-g5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr1-g6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-e4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-e5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-e6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-g3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-g4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-g5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-stc-rr2-g6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-e5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 65,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-e6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 66,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 67,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 68,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-g5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 69,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-sus-g6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 70,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 71,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 72,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 73,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 74,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 75,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 76,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 77,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-e4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 78,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-e5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 79,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-e6.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 80,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-g3.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 81,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-g4.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 82,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-g5.wav"
+ 	},
+ 	{
+ 		"bank": "2ndVio",
+ 		"n": 83,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/2ndVio/2nd-violins-trm-g6.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-a2.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-a3.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-a4.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-a5.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-c2.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-c3.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-c4.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-c5.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "aCell",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCell/cello-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-b3.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-b4.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-b5.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-d3.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-d4.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-d5.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-d6.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-f3.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-f4.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-f5.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-g#3.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-g#4.wav"
+ 	},
+ 	{
+ 		"bank": "aCla",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aCla/clarinet-g#5.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-e2.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-e3.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-e4.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-e5.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-g2.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-g3.wav"
+ 	},
+ 	{
+ 		"bank": "aHrn",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aHrn/horn-g4.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-e3.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-e4.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-e5.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-e6.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-g3.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-g4.wav"
+ 	},
+ 	{
+ 		"bank": "aTru",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTru/trumpet-g5.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-a#1.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-c#2.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-e1.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-e2.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-e3.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-g1.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-g2.wav"
+ 	},
+ 	{
+ 		"bank": "aTub",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/aTub/tuba-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-e4.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-e5.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-e6.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-g3.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-g4.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-g5.wav"
+ 	},
+ 	{
+ 		"bank": "altFlu",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/altFlu/alto_flute-g6.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-c6.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-e4.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-e5.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-g4.wav"
+ 	},
+ 	{
+ 		"bank": "anOb",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/anOb/oboe-g5.wav"
+ 	},
+ 	{
+ 		"bank": "arp",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/arp/000_arp2.wav"
+ 	},
+ 	{
+ 		"bank": "arp",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/arp/001_arp.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-a1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-a2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-a3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-c1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-c2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-c3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-c4.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr1-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-a1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-a2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-a3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-c1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-c2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-c3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-c4.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-piz-rr2-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-a1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-a2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-a3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-c1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-c2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-c3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-c4.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr1-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-a1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-a2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-a3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-c1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-c2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-c3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-c4.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-stc-rr2-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-a1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-a2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-a3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-c1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-c2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-c3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-c4.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "basStr",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/basStr/basses-sus-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-b2.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-b3.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-b4.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-d2.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-d3.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-d4.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-d5.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-f2.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-f3.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-f4.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-g#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-g#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsClar",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsClar/bass_clarinet-g#4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-a#1.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-c#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-e2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-e3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-e4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-g2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-g3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoon",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoon/bassoon-g4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-a#1.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-c#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-e2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-e3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-e5.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-g2.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "bsSoons",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsSoons/bassoons-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-a#1.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-c#2.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-e1.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-e2.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-e3.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-e4.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-g1.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-g2.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-g3.wav"
+ 	},
+ 	{
+ 		"bank": "bsTrom",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/bsTrom/bass_trombone-g4.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/01 Cattle Egret.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/02 Hamerkop.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/03 Hadeda Ibis.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/04 Egyptian Goose.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/05 Little Sparrowhawk.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/06 African Goshawk.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/07 Cape Francolin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/08 Natal Francolin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/09 Helmeted Guineafowl.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/10 Crowned Plover.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/11 Spotted Dikkop.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/12 Rock Pigeon.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/13 Rameron Pigeon.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/14 Redeyed Dove.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/15 Cape Turtle Dove.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/16 Laughing Dove.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/17 Green Pigeon.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/18 Purplecrested Lourie.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/19 Grey Lourie.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/20 Redchested Cuckoo.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/21 Klaas's Cuckoo.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/22 Diederik Cuckoo.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/23 Burchell's Coucal.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/24 Barn Owl.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/25 Spotted Eagle Owl.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/26 Little Swift.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/27 Palm Swift.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/28 Speckled Mousebird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/29 Redfaced Mousebird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/30 Pied Kingfisher.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/31 Brownhooded Kingfisher.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/32 Hoopoe.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/33 Redbilled Woodhoopoe.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/34 Blackcollared Barbet.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/35 Yellowfronted Tinker Barbet.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/36 Crested Barbet.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/37 Cardinal Woodpecker.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/38 Redthroated Wryneck.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/39 European Swallow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/40 Greater Striped Swallow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/41 Lesser Striped Swallow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/42 Rock Martin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/43 Forktailed Drongo.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/44 Blackheaded Oriole.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/45 Pied Crow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/46 Cape Bulbul.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/47 Blackeyed Bulbul.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/48 Sombre Bulbul.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/49 Kurrichane Thrush.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/50 Olive Thrush.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/51 Groundscraper Thrush.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/52 Familiar Chat.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/53 Mocking Chat.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/54 Heuglin's Robin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/55 Natal Robin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/56 Cape Robin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/57 Willow Warbler.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/58 Barthroated Apalis.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/59 Tawnyflanked Prinia.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/60 Fiscal Flycatcher.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/61 Paradise Flycatcher.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/62 Cape Wagtail.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/63 Fiscal Shrike.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/64 Southern Boubou.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/65 Puffback.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 65,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/66 Bokmakierie.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 66,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/67 Orangebreasted Bush Shrike.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 67,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/68 Greyheaded Bush Shrike.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 68,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/69 European Starling.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 69,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/70 Indian Myna.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 70,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/71 Plumcoloured Starling.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 71,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/72 Glossy Starling.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 72,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/73 Redwinged Starling.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 73,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/74 Cape Sugarbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 74,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/75 Malachite Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 75,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/76 Lesser Doublecollared Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 76,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/77 Greater Doublecollared Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 77,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/78 Whitebellied Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 78,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/79 Scarletchested Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 79,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/80 Black Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 80,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/81 Collared Sunbird.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 81,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/82 Cape White-eye.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 82,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/83 House Sparrow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 83,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/84 Cape Sparrow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 84,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/85 Greyheaded Sparrow.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 85,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/86 Thickbilled Weaver.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 86,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/87 Spootedbacked Weaver.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 87,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/88 Cape Weaver.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 88,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/89 Masked Weaver.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 89,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/90 Golden Weaver.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 90,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/91 Red  Bishop.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 91,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/92 Common Waxbill.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 92,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/93 Bronze Mannikin.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 93,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/94 Pintailed Whydah.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 94,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/95 Black Widowfinch.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 95,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/96 Yelloweyed Canary.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 96,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/97 Cape Canary.wav"
+ 	},
+ 	{
+ 		"bank": "capebirds",
+ 		"n": 97,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/capebirds/98 Streakyheaded Canary.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-a#0.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-a#1.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-c#1.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-c#2.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-e1.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-e2.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-e3.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-g1.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-g2.wav"
+ 	},
+ 	{
+ 		"bank": "cbSoon",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cbSoon/contrabassoon-g3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-a2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-a3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-a4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-c2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-c3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-c4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-c5.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr1-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-a2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-a3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-a4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-c2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-c3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-c4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-c5.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-piz-rr2-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-a2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-a3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-a4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-c2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-c3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-c4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-c5.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr1-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-a2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-a3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-a4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-c2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-c3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-c4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-c5.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-stc-rr2-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-a2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-a3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-a4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-c2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-c3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-c4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-c5.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "cels",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/cels/celli-sus-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-a4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-a5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-b4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-b5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-c5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-c6.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-d5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-e5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-f5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-g#4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-g#5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-g4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-female-g5.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-a2.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-a3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-b2.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-b3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-c3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-c4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-d3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-d4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-e3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-e4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-f3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-f4.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-g#2.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-g#3.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-g2.wav"
+ 	},
+ 	{
+ 		"bank": "chor",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/chor/chorus-male-g3.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-b3.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-b4.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-b5.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-d3.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-d4.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-d5.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-d6.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-f3.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-f4.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-f5.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-g#3.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-g#4.wav"
+ 	},
+ 	{
+ 		"bank": "clars",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/clars/clarinets-sus-g#5.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-b3.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-b4.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-d4.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-d5.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-f3.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-f4.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-f5.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-g#3.wav"
+ 	},
+ 	{
+ 		"bank": "crAng",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/crAng/cor_anglais-g#4.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Canary000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Dr0ne000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Dr0ne001.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Francolin000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Francolin001.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Long_Billed_Lark000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Sparrow000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Sugarbird000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Sugarbird001.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/Wagtail000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/pad000.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/pad001.wav"
+ 	},
+ 	{
+ 		"bank": "ee071223",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/ee071223/pluck000.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-a3.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-a4.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-a5.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-c3.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-c4.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-c5.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-c6.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "flu",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flu/flute-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-a3.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-a4.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-a5.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-c3.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-c4.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-c5.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "flus",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/flus/flutes-sus-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-a7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-c8.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-d#7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-f-f#7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-a7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-c8.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-d#7.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#6.wav"
+ 	},
+ 	{
+ 		"bank": "gPiano",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gPiano/piano-p-f#7.wav"
+ 	},
+ 	{
+ 		"bank": "gpluk",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gpluk/gpluk000.wav"
+ 	},
+ 	{
+ 		"bank": "gpluk",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gpluk/gpluk001.wav"
+ 	},
+ 	{
+ 		"bank": "gpluk",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gpluk/gpluk002.wav"
+ 	},
+ 	{
+ 		"bank": "gpluk",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/gpluk/gpluk003.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-a2.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-a3.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-a4.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-a5.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-a6.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-c2.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-c3.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-c4.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-c5.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-c6.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-c7.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-d#2.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-d#6.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-f#2.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "harp",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/harp/harp-f#6.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-e2.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-e3.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-g2.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "hrns",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/hrns/horns-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "mel",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/mel/mel000.wav"
+ 	},
+ 	{
+ 		"bank": "mel",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/mel/mel000cln.wav"
+ 	},
+ 	{
+ 		"bank": "mel",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/mel/mel001.wav"
+ 	},
+ 	{
+ 		"bank": "mel",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/mel/mel001cln.wav"
+ 	},
+ 	{
+ 		"bank": "mel",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/mel/mel002.wav"
+ 	},
+ 	{
+ 		"bank": "mel",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/mel/mel002cln.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-e5.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-e6.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "obos",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/obos/oboes-sus-g5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/bar_chimes-a.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/bar_chimes-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/bar_chimes-c.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/bass_drum-f.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/bass_drum-p.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/bell_tree.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/cabasa-a.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/cabasa-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/castanets-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/castanets-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-a3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-a4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-a5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-c3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-c4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-c5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-c6.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/chimes-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/conga-mut-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/conga-mut-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/conga-opn-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/conga-opn-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/conga-slp-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/conga-slp-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/cymbal_roll-a-f.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/cymbal_roll-a-mf.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/cymbal_roll-a-p.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/cymbal_roll-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/finger_cymbal-hi.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/finger_cymbal-lo.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-a3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-a4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-a5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-c3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-c4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-c5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-c6.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/glockenspiel-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/piatti.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/ratchet.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-a.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-c.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-hi-a.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-hi-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-lo-a.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/shaker-lo-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/sleigh_bells-f.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/sleigh_bells-mf.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-lh-ff.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-lh-mf.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-lh-p.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-rh-ff.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-rh-mf.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-rh-p.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 65,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/snare-roll.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 66,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tambourine-hit-f.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 67,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tambourine-hit-mf.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 68,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tambourine-roll.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 69,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tambourine-shake.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 70,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tamtam-a.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 71,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tamtam-b.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 72,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/tamtam-c.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 73,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-lh-a1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 74,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-lh-c1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 75,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-lh-c2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 76,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-lh-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 77,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-lh-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 78,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-rh-a1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 79,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-rh-c1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 80,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-rh-c2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 81,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-rh-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 82,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-f-rh-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 83,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-lh-a1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 84,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-lh-c1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 85,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-lh-c2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 86,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-lh-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 87,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-lh-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 88,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-rh-a1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 89,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-rh-c1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 90,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-rh-c2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 91,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-rh-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 92,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-p-rh-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 93,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-a1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 94,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-c1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 95,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-c2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 96,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-crsc-a1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 97,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-crsc-c1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 98,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-crsc-c2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 99,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-crsc-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 100,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-crsc-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 101,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-d#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 102,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/timpani-roll-f#1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 103,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-hlf-opn-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 104,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-hlf-opn-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 105,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-hlf-opn-rr3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 106,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-mtd-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 107,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-mtd-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 108,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-mtd-rr3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 109,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-opn-rr1.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 110,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-opn-rr2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 111,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-opn-rr3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 112,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/triangle-roll.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 113,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/vibraslap.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 114,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/wood_block-hi.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 115,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/wood_block-lo.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 116,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 117,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 118,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 119,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 120,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 121,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 122,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 123,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-e3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 124,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-e4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 125,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-e5.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 126,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-g2.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 127,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-g3.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 128,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-g4.wav"
+ 	},
+ 	{
+ 		"bank": "orcPerc",
+ 		"n": 129,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/orcPerc/xylophone-g5.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-a4.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-a5.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-c4.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-c5.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-c6.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-d#6.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "picc",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/picc/piccolo-f#6.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/000_notes121a.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/001_notes121a2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/002_notes121b.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/003_notes121bflat.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/004_notes121bflat2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/005_notes121c.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/006_notes121c2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/007_notes121csharp.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/008_notes121csharp2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/009_notes121d.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/010_notes121e.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/011_notes121e2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/012_notes121eflat.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/013_notes121eflat2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/014_notes121f.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/015_notes121f2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/016_notes121fsharp.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/017_notes121fsharp2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/018_notes121g.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/019_notes121g2.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/020_notes121gsharp.wav"
+ 	},
+ 	{
+ 		"bank": "sax",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/sax/021_notes121gsharp2.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-e2.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-e3.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-e4.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-g2.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-g3.wav"
+ 	},
+ 	{
+ 		"bank": "tTrom",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/tTrom/tenor_trombone-g4.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-a#2.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-c#3.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-e2.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-e3.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-e5.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-g2.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "troms",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/troms/trombones-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-e3.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-e4.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-e5.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-e6.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-g3.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-g4.wav"
+ 	},
+ 	{
+ 		"bank": "trums",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/trums/trumpets-sus-g5.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-a#3.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-a#4.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-a#5.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-a#6.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-c#4.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-c#5.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-c#6.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-e4.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-e5.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-e6.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-g3.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-g4.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-g5.wav"
+ 	},
+ 	{
+ 		"bank": "viol",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viol/violin-g6.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_A5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_B2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_B3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_B4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_B5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_C#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_C#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_C#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_C3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_C4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_C5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_D#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_D#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_D#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_D3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_D4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_D5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_E3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_E4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_E5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_F#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_F#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_F#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_F3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_F4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_F5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_non_vib_G5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_a5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_b2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_b3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_b4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_b5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_c#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_c#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_c#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_c3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_c4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_c5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_d#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_d#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_d#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_d3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_d4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_d5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 65,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_e3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 66,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_e4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 67,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_e5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 68,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_f#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 69,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_f#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 70,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_f#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 71,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_f3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 72,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_f4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 73,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_f5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 74,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 75,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 76,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 77,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 78,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 79,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 80,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 81,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_arco_vib_g5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 82,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 83,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 84,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 85,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 86,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 87,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 88,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 89,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_a5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 90,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_b2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 91,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_b3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 92,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_b4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 93,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_b5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 94,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_c#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 95,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_c#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 96,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_c#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 97,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_c3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 98,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_c4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 99,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_c5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 100,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_d#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 101,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_d#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 102,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_d#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 103,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_d3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 104,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_d4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 105,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_d5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 106,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_e3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 107,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_e4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 108,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_e5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 109,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_f#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 110,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_f#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 111,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_f#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 112,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_f3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 113,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_f4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 114,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_f5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 115,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 116,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 117,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 118,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 119,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 120,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 121,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 122,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_non_vib_g5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 123,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 124,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 125,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 126,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 127,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 128,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 129,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 130,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_a5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 131,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_b2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 132,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_b3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 133,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_b4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 134,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_b5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 135,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_c#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 136,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_c#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 137,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_c#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 138,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_c3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 139,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_c4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 140,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_c5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 141,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_d#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 142,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_d#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 143,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_d#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 144,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_d3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 145,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_d4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 146,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_d5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 147,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_e3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 148,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_e4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 149,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_e5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 150,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_f#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 151,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_f#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 152,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_f#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 153,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_f3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 154,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_f4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 155,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_f5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 156,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 157,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 158,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 159,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 160,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 161,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 162,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 163,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_pizz_vib_g5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 164,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 165,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 166,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 167,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 168,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 169,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 170,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 171,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_A5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 172,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_B2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 173,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_B3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 174,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_B4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 175,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_B5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 176,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_C#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 177,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_C#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 178,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_C#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 179,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_C3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 180,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_C4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 181,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_C5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 182,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_D#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 183,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_D#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 184,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_D#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 185,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_D3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 186,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_D4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 187,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_D5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 188,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_E3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 189,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_E4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 190,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_E5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 191,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_F#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 192,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_F#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 193,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_F#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 194,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_F3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 195,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_F4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 196,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_F5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 197,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 198,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 199,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 200,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 201,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 202,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 203,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 204,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_spiccato_G5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 205,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 206,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 207,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 208,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 209,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 210,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 211,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 212,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_A5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 213,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_B2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 214,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_B3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 215,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_B4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 216,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_B5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 217,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_C#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 218,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_C#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 219,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_C#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 220,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_C3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 221,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_C4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 222,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_C5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 223,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_D#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 224,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_D#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 225,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_D#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 226,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_D3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 227,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_D4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 228,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_D5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 229,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_E3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 230,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_E4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 231,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_E5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 232,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_F#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 233,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_F#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 234,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_F#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 235,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_F3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 236,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_F4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 237,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_F5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 238,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G#2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 239,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G#3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 240,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G#4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 241,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G#5.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 242,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G2.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 243,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G3.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 244,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G4.wav"
+ 	},
+ 	{
+ 		"bank": "viols",
+ 		"n": 245,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/viols/violin_tremolo_G5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-a3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-a4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-a5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 3,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-c3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 4,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-c4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 5,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-c5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 6,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-c6.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 7,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 8,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 9,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 10,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 11,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 12,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr1-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 13,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-a3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 14,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-a4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 15,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-a5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 16,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-c3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 17,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-c4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 18,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-c5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 19,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-c6.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 20,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 21,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 22,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 23,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 24,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 25,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-piz-rr2-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 26,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-a3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 27,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-a4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 28,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-a5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 29,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-c3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 30,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-c4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 31,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-c5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 32,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-c6.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 33,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 34,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 35,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 36,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 37,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 38,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr1-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 39,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-a3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 40,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-a4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 41,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-a5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 42,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-c3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 43,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-c4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 44,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-c5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 45,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-c6.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 46,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 47,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 48,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 49,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 50,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 51,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-stc-rr2-f#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 52,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-a3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 53,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-a4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 54,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-a5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 55,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-c3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 56,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-c4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 57,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-c5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 58,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-c6.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 59,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-d#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 60,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-d#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 61,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-d#5.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 62,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-f#3.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 63,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-f#4.wav"
+ 	},
+ 	{
+ 		"bank": "vlas",
+ 		"n": 64,
+ 		"type": "audio",
+ 		"url": "/Users/mel/Documents/GitHub/mysamples/vlas/violas-sus-f#5.wav"
+ 	}
+ ]
