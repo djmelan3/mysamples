@@ -1,12 +1,12 @@
-# UPLOrc-samples
+# mysamples
 
-CC0 sample bank created by and for the UPLOrc (University of Pretoria Laptop Orchestra) and used in the Estuary platform.
+CC0 sample bank largely created by djmelan3 and featuring samples from other 
 
 ## Adding samples to Estuary using !reslist
 
 To add these samples into Estuary type the following in the Terminal Window and press Enter:
 ```
-!reslist "https://djmelan3.github.io/UPLOrc-samples/resources.json" 
+!reslist "https://djmelan3.github.io/mysamples/resources.json" 
 ```
 
 ## Preparing Audio Samples
@@ -19,28 +19,28 @@ Important: Please ensure that all samples you contribute are samples where you a
 
 - Create an account on github.com (just once).
 
-- Fork the repository by going to the central copy of it on github at https://github.com/djmelan3/UPLOrc-samples.git and clicking on the
+- Fork the repository by going to the central copy of it on github at https://github.com/djmelan3/mysamples.git and clicking on the
 Fork button (just once).
 
 - Using a command shell, clone *your*copy* of the repository from github to a computer in your possession. For example:
 
 ```
 cd~
-git clone https://github.com/djmelan3/UPLOrc-samples.git
+git clone https://github.com/djmelan3/mysamples.git
 ````
 
-- Add sample folders and files to the UPLOrc folder on your computer (if you follow the instruction above exactly,
+- Add sample folders and files to the "mysamples" folder on your computer (if you follow the instruction above exactly,
 it will be in your home folder).
 
 - To share changes with others, first check what differences exist in your folder:
 
 ```
-cd ~/UPLOrc-samples
+cd ~/mysamples
 git status
 ````
 
 - If the list of changed files from git status looks right, add them all to a pending commit (terminal code here assumes
-you are still in the UPLOrc folder):
+you are still in the "mysamples" folder):
 
 ```
 git add .
@@ -59,13 +59,12 @@ git commit -m "a message describing what you are changing/adding"
 git push
 ```
 
-- Go on github.com, to the page about your copy of the repository, and click pull request. UPLOrc management will get a
-message about it and will be able to merge it with the central copy.
+- Go on github.com, to the page about your copy of the repository, and click pull request.
 
 - To get an updated version of the central copy from time to time, you must first have added + committed any of your own
 changes, then:
 
 ```
-cd ~/UPLOrc-samples
-git pull https://github.com/djmelan3/UPLOrc-samples.git main
+cd ~/mysamples
+git pull https://github.com/djmelan3/mysamples.git main
 ```
