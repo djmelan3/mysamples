@@ -1,7 +1,6 @@
 # mysamples
 
-CC0 sample bank largely created by djmelan3 and featuring samples from other 
-
+CC0 sample bank
 ## Adding samples to Estuary using !reslist
 
 To add these samples into Estuary type the following in the Terminal Window and press Enter:
